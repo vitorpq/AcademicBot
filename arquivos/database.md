@@ -55,8 +55,11 @@ Então, disciplinas com carga horária muito baixa não podem ser aproveitadas, 
 	- Ou acima de 100% podem ser aproveitadas.
 Requerimento para aproveitamento: SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>APROVEITAMENTO/ISENÇÃO DISCIPL >> ANALISAR APROVEITAMENTO MATÉRIA-CURSO
 # Por onde consigo falar com o coordenador do meu curso?
-Cada coordenador de curso trabalha usando e-mail institucional ou Teams.
-Alguns coordenadores usam o WhatsApp. Mas a melhor maneira é conferir o quadro de horários que fica no mural do Térreo próximo ao elevador.
+Cada coordenador de curso trabalha usando e-mail institucional ou Teams. Mas a melhor maneira é conferir o quadro de horários que fica no mural do Térreo próximo ao elevador.
+Atendimento exclusivo da Coordenação de Engenharia, Arquitetura e Design - Prof. Vítor E. Andrade:
+Toda quarta-feira às 18h pelo link do Teams: https://bit.ly/4h3f9f9
+Ou via atendimento agendado no link: https://bit.ly/3COqLUJ
+
 # ⁠Qual o procedimento para trancamento de matrícula?
 
 # ⁠Como acessar o calendário acadêmico do semestre?
