@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFA21C"  # Laranja para botões e destaques
+backgroundColor = "#88185D"  # Roxo escuro para o fundo da página
+secondaryBackgroundColor = "#5C1042"  # Roxo mais escuro para seções secundárias
+textColor = "#FFFFFF"  # Texto branco para contraste
+font = "sans serif"
