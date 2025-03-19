@@ -21,7 +21,20 @@ Provas: Portal SAVA (estudante.wyden.com.br)> Avaliações > Selecione a discipl
 
 # ⁠Onde vejo a minha sala do dia?
 Pelo QR-Code do Quadro de Salas e Horários que fica fixado pelo Campus.
-Ou pelo link - 
+Links das aulas por dia:
+Segunda: 
+https://docs.google.com/presentation/d/1PRNTPS3IUPaXTgsZcFpQK86EJWRA1GLx/edit?usp=sharing&ouid=108881281169504969695&rtpof=true&sd=true
+Terça
+https://docs.google.com/presentation/d/16JXdLFGVecYSAwSP7PzXSH_y7cAotSVy/edit?usp=sharing&ouid=108881281169504969695&rtpof=true&sd=true
+Quarta:
+https://docs.google.com/presentation/d/1X3tG__6xrrv8HzF_KiaS-5YvOqeNYTpJ/edit?usp=sharing&ouid=117154308294327358557&rtpof=true&sd=true
+Quinta:
+https://docs.google.com/presentation/d/1hs2q4OE4zyzlqex3ssit3tCsi_7uyR3D/edit?usp=sharing&ouid=108881281169504969695&rtpof=true&sd=true
+Sexta:
+https://docs.google.com/presentation/d/1IXFittshFA7bwmvuvBkHvG0eKi0NpxeS/edit?usp=sharing&ouid=108881281169504969695&rtpof=true&sd=true
+Sábado:
+https://docs.google.com/presentation/d/1kIUYv8uJrjqooYy5CBObYj-WGlfbLMTK/edit?usp=sharing&ouid=108881281169504969695&rtpof=true&sd=true
+
 # Como ganhar horas AAC (antigo PEX)?
 Para você ganhar as horas AAC, as Atividades Acadêmica Complementares ou antigo PEX, você precisa dos eventos abaixo internos ou externos:
 	- Monitoria
