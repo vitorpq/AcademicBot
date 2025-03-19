@@ -116,9 +116,16 @@ As disciplinas (nem todas, as disciplinas extenionistas não possuem prova AV, s
 Eles são feitos pelo Portal SAVA - estudante.wyden.com.br
 
 # Como que faz pra fazer o curso de idiomas?
+Para saber sobre os intercambios e editais de pesquisa, extensão e interncaionalização, seguir
+o instagram: @pei.uniruy.ba
+Ou acompanhar os editais pelo link:
+https://padlet.com/pesquisaextensaouniruy/pesquisa-extens-o-e-internacionaliza-o-uniruy-wyden-acompanh-kg5aethau1o0ucjf
 
 # QUais intercambios a faculdade tem?
-
+Para saber sobre os intercambios e editais de pesquisa, extensão e interncaionalização, seguir
+o instagram: @pei.uniruy.ba
+Ou acompanhar os editais pelo link:
+https://padlet.com/pesquisaextensaouniruy/pesquisa-extens-o-e-internacionaliza-o-uniruy-wyden-acompanh-kg5aethau1o0ucjf
 # Como falar com a pro-reitoria?
 A pro-reitora Silvia Gonçalves atende à comunidade acadêmica pelo e-mail: santos.silvia@yduqs.com.br
 Ou através de agendamento feito através do e-mail: sena.luana@uniruy.edu.br
