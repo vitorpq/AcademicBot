@@ -64,8 +64,7 @@ setup = RunnableParallel({
 
 chain = setup | prompt | ChatGoogleGenerativeAI(model="models/gemini-2.0-flash") | StrOutputParser()
 
-# Stream list
-# Visual Style
+# Streamlit UI Styling
 st.markdown(
     """
     <style>
@@ -115,33 +114,37 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-col1, col2 = st.columns([2, 8])
-
-with col1:
-    st.image("logo-UNIRUY-Branco.png", width=350)
+st.sidebar.image("logo-UNIRUY-Branco.png", width=350)
+st.sidebar.text("ChatBot de dúvidas para alunos do Centro Universitário Ruy Barbosa - UNIRUY")
+st.sidebar.text("Desenvolvido por: Prof. Msc. Vítor Emmanuel Andrade")
 # Streamlit Chat Interface
-with col2:
-    st.title("AcademicBot Chat")
+st.title("AcademicBot Chat")
 # Initialize session state for chat history
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
 
-    # Display chat history
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+# Display chat history
+chat_container = st.container()
+with chat_container:
+    for message in reversed(st.session_state.chat_history):
+        role, content = message["role"], message["content"]
+        if role == "user":
+            st.markdown(f"<div class='user-bubble'>{content}</div>", unsafe_allow_html=True)
+        elif role == "assistant":
+            st.markdown(f"<div class='chat-bubble'>{content}</div>", unsafe_allow_html=True)
 
-    # Input box for user message
-    if user_input := st.chat_input("Digite sua pergunta aqui..."):
-        # Add user message to chat history
-        st.session_state.messages.append({"role": "user", "content": user_input})
-        with st.chat_message("user"):
-            st.markdown(user_input)
 
-        # Generate response using the chain
-        response = chain.invoke(user_input)
+# Input box for user message
+if user_input := st.chat_input("Digite sua pergunta aqui..."):
+    # Add user message to chat history
+    st.session_state.chat_history.append({"role": "user", "content": user_input})
+    with st.chat_message("user"):
+        st.markdown(user_input)
 
-        # Add bot response to chat history
-        st.session_state.messages.append({"role": "assistant", "content": response})
-        with st.chat_message("assistant"):
-            st.markdown(response)
+    # Generate response using the chain
+    response = chain.invoke(user_input)
+
+    # Add bot response to chat history
+    st.session_state.chat_history.append({"role": "assistant", "content": response})
+    with st.chat_message("assistant"):
+        st.markdown(response)

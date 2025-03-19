@@ -1,8 +1,9 @@
 # ⁠Como renovar a matrícula?
 Pelo portal renova renova.wyden.com.br
-#⁠ Como alterar a grade após a escolha das disciplinas?
+# Como alterar a grade após a escolha das disciplinas?
 Você pode fazer a alteração pelo portal Renova ou pode abrir requerimento pedindo ao coordenador que altere sua grade.
 SIA ➡️ ATENDIMENTO ➡️ REQUERIMENTO ➡️ NOVO ➡️ CURRÍCULO/AULA/HORÁRIOS ➡️ SOLICITAR ALTERAÇÃO DE GRADE DE HORÁRIO
+Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 # ⁠Como obter o histórico assinado?
 Nossos históricos já vêem com assinatura digital, basta solicitar Através do requerimento:
 Se precisar da assinatura do reitor no histórico, pedir via e-mail: colacao.grau@uniruy.edu.br
@@ -17,11 +18,10 @@ Simulados: Portal SAVA (estudante.wyden.com.br)> Avaliações > Selecione a disc
 
 # Como altero o dia da prova agendada?
 Provas: Portal SAVA (estudante.wyden.com.br)> Avaliações > Selecione a disciplina desejada > Clique em "Prova AV" > Reagendamento.
-# ⁠Onde vejo a minha sala do dia?
-Pelo QR-Code do Quadro de Salas e Horários que fica fixado pelo Campus.
-# ⁠Onde vejo a minha sala do dia?
-Pelo QR-Code do Quadro de Salas e Horários que fica fixado pelo Campus.
 
+# ⁠Onde vejo a minha sala do dia?
+Pelo QR-Code do Quadro de Salas e Horários que fica fixado pelo Campus.
+Ou pelo link - 
 # Como ganhar horas AAC (antigo PEX)?
 Para você ganhar as horas AAC, as Atividades Acadêmica Complementares ou antigo PEX, você precisa dos eventos abaixo internos ou externos:
 	- Monitoria
@@ -34,8 +34,10 @@ Para você ganhar as horas AAC, as Atividades Acadêmica Complementares ou antig
 Com o certificado desses desses eventos, apresentar via requerimento no portal SIA, para que o seu coordenador possa validar essas horas AAC.
 ## Para AAC feitas fora da faculdade
 SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>NOTA/PRESENÇA/AT.COMPLEMENTAR>>LANÇAR HORAS DE ATIV. ACAD. COMPLEMENTAR EXTERNA
+Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 ## Para AAC promovidas pela faculdade
 SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>NOTA/PRESENÇA/AT.COMPLEMENTAR>>LANÇAR HORAS DE ATIV. ACAD. COMPLEMENTAR INTERNA
+Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 
 Cada curso tem uma quantidade de horas AAC que ele precisa cumprir. Para saber quantas horas AAC você precisa cumprir, basta olhar o seu histórico, que lá tem a quantidade que você já fez. Logo no lado direito, em cima do seu histórico, no começo dele, tem a quantidade de horas que você já fez, de horas AAC, e o quanto de horas do curso que você já fez, basta acessá-la.
 
@@ -54,14 +56,17 @@ Então, disciplinas com carga horária muito baixa não podem ser aproveitadas, 
 	- No mínimo 75% da carga horária.
 	- Ou acima de 100% podem ser aproveitadas.
 Requerimento para aproveitamento: SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>APROVEITAMENTO/ISENÇÃO DISCIPL >> ANALISAR APROVEITAMENTO MATÉRIA-CURSO
+Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 # Por onde consigo falar com o coordenador do meu curso?
 Cada coordenador de curso trabalha usando e-mail institucional ou Teams. Mas a melhor maneira é conferir o quadro de horários que fica no mural do Térreo próximo ao elevador.
-Atendimento exclusivo da Coordenação de Engenharia, Arquitetura e Design - Prof. Vítor E. Andrade:
+## Atendimento exclusivo da Coordenação de Engenharia, Arquitetura e Design - Prof. Vítor E. Andrade:
 Toda quarta-feira às 18h pelo link do Teams: https://bit.ly/4h3f9f9
 Ou via atendimento agendado no link: https://bit.ly/3COqLUJ
 
+## Para falar com o Coordenador de Psicologia Prof. Matheus Santana, agendar horário pelo link - Link de agendamento: https://outlook.office.com/bookwithme/user/d4d5324b70a942ce90b61960663987c3@uniruy.edu.br/meetingtype/t2IykCRkrEmxbbn6NiMYsg2?anonymous&ep=mlink
+ATENÇÃO: Olhe se o fuso-horário está o de Brasília.
 # ⁠Qual o procedimento para trancamento de matrícula?
-
+Para trancar, cancelar ou transferir, é necessário entrar em contato com a central através do número 0800 771 5001, após agendar, comparecer no dia e horário.
 # ⁠Como acessar o calendário acadêmico do semestre?
 Pelo link https://portal.siaaluno.com.br/sianet/Logon ou no App "Minha Wyden"
 # ⁠Como sei o meu e-mail e a minha senha Teams?
@@ -70,14 +75,15 @@ Seu e-mail do seu Teams ou do e-mail do Outlook é: SUAMATRICULA@alunos.uniruy.e
 Para ter acesso às suas notas e faltas, você pode ter acesso via o seu aplicativo de celular Minha Wyden ou pelo link https://portal.siaaluno.com.br/sianet/Logon.
 Você lá consegue ver sua vida acadêmica e financeira, ver quais são suas notas, quais disciplinas você já cursou e quais disciplinas você ainda tem a cursar.
 # ⁠Como faço para mudar de curso?
-1. COnversar com a coodenação
-2. Abrir requerimento de mudança de curso
+1. Abrir requerimento de mudança de curso - 
+SIA->ATENDIMENTO->REQUERIMENTO->NOVO->MATRÍCULA/TRANSFERÊNCIA->SOLICITAR TRANSFERÊNCIA INTERNA DE CURSO
+Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 # Como posso me comunicar com o meu professor?
 A comunicação com o seu professor se dá através ou do Teams. Você pode comunicar via Teams com ele ou via e-mail. O seu professor pode falar com você mandando mensagem pelo aplicativo dele, que vai chegar no seu aplicativo, ou via seu e-mail também, cadastrado no CIE.
 Por isso, é sempre bom deixar o seu e-mail correto no CIE, para que o professor ou a coordenação possa conversar com você.
 
 # Onde tenho acesso às informações que o coordenador do curso ou a instituição dá?
-Através do seu e-mail pessoal ou pelas equipes do Teams de comunicação de cada coordenação
+Através do seu e-mail pessoal ou pelas equipes do Teams de comunicação de cada coordenação.
 
 # Estou com problema com minha matrícula acadêmica. Fui matriculado em disciplina que além de ser optativa, não solicitei. Sendo que as duas que restam para finalizar o curso não aparece para mim. Que são: Automação Eletroeletrônica e Desenho Mecânico.
 Se você for um aluno formando, ou seja, que que possui somente 6 disciplinas para se formar, deve abrir o requerimento para CURSAR DISCIPLINA INDISPONÍVEL PARA FORMANDO. Existe um prazo para abertura deste requerimento, de acordo com o calendário acadêmico do semestre, favor verificar o calendário no seu Portal SIA - https://portal.siaaluno.com.br/sianet/Logon ou no App Minha Wyden.
@@ -112,5 +118,9 @@ Eles são feitos pelo Portal SAVA - estudante.wyden.com.br
 # Como que faz pra fazer o curso de idiomas?
 
 # QUais intercambios a faculdade tem?
+
+# Como falar com a pro-reitoria?
+A pro-reitora Silvia Gonçalves atende à comunidade acadêmica pelo e-mail: santos.silvia@yduqs.com.br
+Ou através de agendamento feito através do e-mail: sena.luana@uniruy.edu.br
 
 
