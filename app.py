@@ -116,7 +116,8 @@ st.markdown(
 )
 st.sidebar.image("logo-UNIRUY-Branco.png", width=350)
 st.sidebar.text("ChatBot de dúvidas para alunos do Centro Universitário Ruy Barbosa - UNIRUY")
-st.sidebar.text("Desenvolvido por: Prof. Msc. Vítor Emmanuel Andrade")
+st.sidebar.text("Desenvolvido pelo Prof. Vítor E. Andrade")
+st.sidebar.text("https://github.com/vitorpq")
 # Streamlit Chat Interface
 st.title("AcademicBot Chat")
 # Initialize session state for chat history
