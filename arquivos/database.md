@@ -2,7 +2,7 @@
 Pelo portal renova renova.wyden.com.br
 # Como alterar a grade após a escolha das disciplinas?
 Você pode fazer a alteração pelo portal Renova ou pode abrir requerimento pedindo ao coordenador que altere sua grade.
-SIA ➡️ ATENDIMENTO ➡️ REQUERIMENTO ➡️ NOVO ➡️ CURRÍCULO/AULA/HORÁRIOS ➡️ SOLICITAR ALTERAÇÃO DE GRADE DE HORÁRIO
+SIA  >>  ATENDIMENTO  >>  REQUERIMENTO  >>  NOVO  >>  CURRÍCULO/AULA/HORÁRIOS  >>  SOLICITAR ALTERAÇÃO DE GRADE DE HORÁRIO
 Portal SIA: https://portal.siaaluno.com.br/sianet/Logon
 # ⁠Como obter o histórico assinado?
 Nossos históricos já vêem com assinatura digital, basta solicitar Através do requerimento:
@@ -100,7 +100,7 @@ Através do seu e-mail pessoal ou pelas equipes do Teams de comunicação de cad
 
 # Estou com problema com minha matrícula acadêmica. Fui matriculado em disciplina que além de ser optativa, não solicitei. Sendo que as duas que restam para finalizar o curso não aparece para mim. Que são: Automação Eletroeletrônica e Desenho Mecânico.
 Se você for um aluno formando, ou seja, que que possui somente 6 disciplinas para se formar, deve abrir o requerimento para CURSAR DISCIPLINA INDISPONÍVEL PARA FORMANDO. Existe um prazo para abertura deste requerimento, de acordo com o calendário acadêmico do semestre, favor verificar o calendário no seu Portal SIA - https://portal.siaaluno.com.br/sianet/Logon ou no App Minha Wyden.
-SIA ➡️ ATENDIMENTO ➡️ REQUERIMENTO ➡️ NOVO ➡️ MONOGRAFIA/TCC/COLAÇÃO/DIPLOMA ➡️ *CURSAR MATÉRIA INDISPONÍVEL PARA FORMANDO*
+SIA  >>  ATENDIMENTO  >>  REQUERIMENTO  >>  NOVO  >>  MONOGRAFIA/TCC/COLAÇÃO/DIPLOMA  >>  *CURSAR MATÉRIA INDISPONÍVEL PARA FORMANDO*
 
 # Quando dou o aceite no meu contrato, no final do semestre, isso me vincula ao curso, mesmo que eu já seja formando?
 O aceite de contrato é feito na pré-matrícula todo final de semestre, e é necessário que você faça, mesmo que no próximo semestre você não esteja mais na faculdade. Basta fazer uma pré-matrícula e dar esse aceite, isso não vai te vincular ao curso.
@@ -122,7 +122,7 @@ SIA>>ATENDIMENTO>>REQUERiMENTO>>NOVO>>CURRÍCULO/AULA/HORÁRIOS>>ANALISAR DISCIP
 Para matérias on-line, abrir o requerimento abaixo
 SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>CURRÍCULO/AULA/HORÁRIOS>>REVISAR NOTA AV/AVS - MATÉRIA ONLINE
 Para matéria presencial usar o requerimento abaixo e anexar comprovação do erro da nota:
-SIA➡️ ATENDIMENTO➡️ REQUERIMENTO➡️ NOVO➡️ NOTA/PRESENÇA/AT.COMPLEMENTAR➡️ SOLICITAR ACERTO DE NOTA/PRES. MATÉRIA PRESENCIAL
+SIA >>  ATENDIMENTO >>  REQUERIMENTO >>  NOVO >>  NOTA/PRESENÇA/AT.COMPLEMENTAR >>  SOLICITAR ACERTO DE NOTA/PRES. MATÉRIA PRESENCIAL
 
 # Como funciona esses simulados?
 As disciplinas (nem todas, as disciplinas extenionistas não possuem prova AV, somente) possuem dois simualdos SIM1 e SIM2, que valem cada um 1 ponto extra.
@@ -145,3 +145,9 @@ Ou através de agendamento feito através do e-mail: sena.luana@uniruy.edu.br
 
 # Como faço se minha dúvida não foi respondida?
 Se sua dúvida não foi respondida, ir até a Secretaria do Aluno, que eles podem te ajudar.
+
+# Como adiciono uma nova disciplina que não vejo pelo Renova ou SIA?
+Você pdoe abrir u requerimento para seu coordenador fazer isso para você.
+Basta selecionar uma outra disciplina no requerimento e explicar na observação que você quer adicionar uma nova disciplina e não substituir a selecionada no requerimento.
+Segue o requerimento para abrir
+SIA  >>  ATENDIMENTO >> REQUERIMENTO  >>  NOVO  >>  CURRÍCULO/AULA/HORÁRIOS  >>  SOLICITAR ALTERAÇÃO DE GRADE DE HORÁRIO
