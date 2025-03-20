@@ -143,4 +143,5 @@ https://padlet.com/pesquisaextensaouniruy/pesquisa-extens-o-e-internacionaliza-o
 A pro-reitora Silvia Gonçalves atende à comunidade acadêmica pelo e-mail: santos.silvia@yduqs.com.br
 Ou através de agendamento feito através do e-mail: sena.luana@uniruy.edu.br
 
-
+# Como faço se minha dúvida não foi respondida?
+Se sua dúvida não foi respondida, ir até a Secretaria do Aluno, que eles podem te ajudar.
