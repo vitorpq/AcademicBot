@@ -151,3 +151,6 @@ Você pdoe abrir u requerimento para seu coordenador fazer isso para você.
 Basta selecionar uma outra disciplina no requerimento e explicar na observação que você quer adicionar uma nova disciplina e não substituir a selecionada no requerimento.
 Segue o requerimento para abrir
 SIA  >>  ATENDIMENTO >> REQUERIMENTO  >>  NOVO  >>  CURRÍCULO/AULA/HORÁRIOS  >>  SOLICITAR ALTERAÇÃO DE GRADE DE HORÁRIO
+
+# Como consigas as ementas/planos de ensino do meu curso?
+sia>>requerimento>>novo>>certidão/declaração/documento>>solicitar programa de matérias do curso
