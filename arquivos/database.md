@@ -9,7 +9,7 @@ Nossos históricos já vêem com assinatura digital, basta solicitar Através do
 Se precisar da assinatura do reitor no histórico, pedir via e-mail: colacao.grau@uniruy.edu.br
 #⁠ Como obter o comprovante de matrículas?
 Basta pedir pelo requerimento abaixo:
-
+SIA>>ATENDIMENTO>>REQUERIMENTO>>NOVO>>CERTIDÃO/DECLARAÇÃO/DOCUMENTO>>DECLARAÇÃO DE MATRÍCULA
 # preciso do meu comprovante de matrícula com o semestre que estou cursando
 Ir até a secretaria de alunos para solicitar comprovante de matrícula. Se acha que seu semestre está errado, verificar com a secretaria de alunos esta situação.
 # Como agendar as provas e os simulados no portal?
@@ -154,3 +154,36 @@ SIA  >>  ATENDIMENTO >> REQUERIMENTO  >>  NOVO  >>  CURRÍCULO/AULA/HORÁRIOS  >
 
 # Como consigas as ementas/planos de ensino do meu curso?
 sia>>requerimento>>novo>>certidão/declaração/documento>>solicitar programa de matérias do curso
+# Como faço o requerimento de estágio?
+O Requerimento estágio é para que a faculdade assine seu TCE - termo de compromisso de estágio.
+
+Acesse o link do Encontre sua vaga 🔍
+Link: https://www.encontresuavaga.com.br/l/candidate/internships-custom/xXtg-UUH9kWO08Po3ZZZUQ2
+Preencha com os dados abaixo:
+- *Dados da Empresa*
+Nome: empresa onde fará estágio 
+CNPJ: da empresa que fará estágio 
+Endereço: da empresa que fará estágio 
+
+*Dados da disciplina*
+Código da disciplina: colocar o código da disciplina de estágio 
+Período acadêmico: período que irá cursar a disciplina de estágio (semestre)
+
+- Carga horária		( depende da carga horária do curso - preencher dias e horários ) ex.:terça-feira: 13:00 às 18:15		
+quinta-feira: 13:00 às 18:15	
+sábado: 07:00 às 12:15	
+
+- Responsável Legal: (da empresa onde irá realizar o estágio) nome, email, telefone, CPF 
+
+- Dados do supervisor do estágio : Nome, email
+- Dados do Orientador de Estágio: 
+*se não tiver cadastro* adicionar CPF, Email, 
+Cargo, Telefone,
+Formação Academica, número do Conselho Profissional
+
+- Marcar Agência de Integração: Não 
+Seguro: Sim
+
+Após preencher o formulário o coordenador do curso realizar a assinatura digital e o aluno precisará voltar no link para assinar digitalmente tambem
+
+O aluno assina o TCE na aba  "meus estagios" -> "ações"
