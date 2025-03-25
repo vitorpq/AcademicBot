@@ -187,3 +187,7 @@ Seguro: Sim
 Após preencher o formulário o coordenador do curso realizar a assinatura digital e o aluno precisará voltar no link para assinar digitalmente tambem
 
 O aluno assina o TCE na aba  "meus estagios" -> "ações"
+
+# Como vou saber se vou fazer prova em casa ou na unidade?
+Para saber se a prova será em casa ou na unidade, você precisa verificar no Portal SAVA (estudante.wyden.com.br).
+Ao acessar avaiações, entre na disciplina desejada e veja se sua avaliação será em casa (On-line) ou na sua Unidade.
